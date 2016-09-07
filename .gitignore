@@ -1,0 +1,14 @@
+/AwaLWM2M
+/LetMeCreateIoT
+/libobjects
+
+*.hex
+*.a
+*.map
+*.mikro-e
+symbols.h
+symbols.c
+
+/obj_mikro-e
+/obj_native
+
